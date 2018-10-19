@@ -1,6 +1,7 @@
 # beemie-the-chatbette-return
 A recreation to https://github.com/Nanandmic567/beemie-the-chatbette
 <br>Yes, that a failure. Because my computer isn't macOS and using Windows so ... CI/CD and Travis CI didn't make any sense.
+<br>Hopefully, PHP can resolved this problem, I promise.
 
 <h1>Why I called "Chatbette"</h1>
 
